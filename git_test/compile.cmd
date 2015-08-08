@@ -1,1 +1,1 @@
-javac TestClass.java
+javac *.java
